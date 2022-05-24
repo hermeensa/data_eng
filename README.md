@@ -1,1 +1,6 @@
 # data_eng
+- 👋 Hi, I’m @hermeensa
+- 👀 I’m interested in Data Science, Data Analysis, Data Engineering
+- 🌱 I’m currently learning Data Engineering
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
